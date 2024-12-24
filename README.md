@@ -22,7 +22,7 @@ To set up and run the Flask app in your local environment, follow the steps belo
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Ade-Pyaar/Insight-Backend-Test
+git clone git@github.com:savannahtech/insait-ibrahim.git Insight-Backend-Test
 cd Insight-Backend-Test
 ```
 
