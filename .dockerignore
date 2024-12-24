@@ -1,0 +1,28 @@
+# Ignore the virtual environment folder
+.venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore the instance folder for Flask
+instance/
+
+# Ignore any test files or directories
+tests/
+*.test.py
+*.spec.py
+
+# Ignore the Dockerfile and docker-compose.yml (optional, if you don't want them in the build context)
+Dockerfile
+docker-compose.yml
+
+# Ignore the .git directory
+.git/
+
+# Ignore any IDE-specific files (optional, for example, if you're using VS Code)
+.vscode/
+
+# Ignore the local database file if you're using SQLite (optional)
+*.db
